@@ -1,3 +1,3 @@
 # mg
 This is my first repository 
-Authe- maham ghaffar
+Auther- maham ghaffar
